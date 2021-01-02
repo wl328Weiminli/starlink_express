@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9bbeac06.chunk.css",
+    "main.js": "/static/js/main.366c17c7.chunk.js",
+    "main.js.map": "/static/js/main.366c17c7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.743c6abb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.743c6abb.js.map",
+    "static/css/2.a4322ac3.chunk.css": "/static/css/2.a4322ac3.chunk.css",
+    "static/js/2.134c7244.chunk.js": "/static/js/2.134c7244.chunk.js",
+    "static/js/2.134c7244.chunk.js.map": "/static/js/2.134c7244.chunk.js.map",
+    "static/js/3.6db194ba.chunk.js": "/static/js/3.6db194ba.chunk.js",
+    "static/js/3.6db194ba.chunk.js.map": "/static/js/3.6db194ba.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a4322ac3.chunk.css.map": "/static/css/2.a4322ac3.chunk.css.map",
+    "static/css/main.9bbeac06.chunk.css.map": "/static/css/main.9bbeac06.chunk.css.map",
+    "static/js/2.134c7244.chunk.js.LICENSE.txt": "/static/js/2.134c7244.chunk.js.LICENSE.txt",
+    "static/media/satellite.d327b26a.svg": "/static/media/satellite.d327b26a.svg",
+    "static/media/spacex_logo.ad25dfff.svg": "/static/media/spacex_logo.ad25dfff.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.743c6abb.js",
+    "static/css/2.a4322ac3.chunk.css",
+    "static/js/2.134c7244.chunk.js",
+    "static/css/main.9bbeac06.chunk.css",
+    "static/js/main.366c17c7.chunk.js"
+  ]
+}
