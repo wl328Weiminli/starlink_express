@@ -52,4 +52,4 @@ app.get("/position/:satid/:latitude/:longitude/:altitude/:endTime", (req, res) =
 // });
 
 app.use(express.static("./build"));
-app.listen(3000);
+app.listen(3000, '127.0.0.1');
