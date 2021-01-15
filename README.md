@@ -1,5 +1,7 @@
 # starlink_express
  A Customized starlink tracking
+# possible problem
+ recently the n2yo api is not stable. if the app didn't return the result, it may becuase the N2YO api's problem or my api key outdated.
 
 ## deployed at:
 http://3.129.248.50/
@@ -12,3 +14,6 @@ https://www.n2yo.com/api/
 2. Choose the satellites you want to show on the map, then the app will start track the satellite on the map.
 
 ![Screen shoot](./images/appScreenShot.jpg)
+
+## react code goes here
+https://github.com/wl328Weiminli/starlink
