@@ -1,6 +1,14 @@
 # starlink_express
  A Customized starlink tracking
  
+## Task
+* Designed and developed a visualization dashboard using ReactJS and D3 to track satellites in real-time based on geo-location.
+* Built location, altitude, and duration based selector to refine satellite search.
+* Animated selected satellite paths on a world map using D3 to improve the user-friendliness.
+* Using the node.js to build the middle layer solving the CORS problem.
+* Deployed to the EC2. 
+
+ 
 ## react code goes here
 https://github.com/wl328Weiminli/starlink
 # possible problem
